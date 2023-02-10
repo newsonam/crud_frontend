@@ -1,0 +1,22 @@
+/* header component */
+
+
+/* menu */
+.bg-color{
+   background-color:#DAA06D;
+   margin-top:-10px;
+}
+
+
+.cartimage{
+   width:10%;
+   height:10%;
+}
+.column-width{
+   width:25%;
+}
+
+.btn-action{
+   display:flex;
+   gap:5px;
+}
